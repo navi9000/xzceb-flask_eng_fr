@@ -1,0 +1,2 @@
+'''Translator'''
+from . import translator
